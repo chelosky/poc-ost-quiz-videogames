@@ -1,4 +1,4 @@
-name: Michis Build-Test-Deploy CI/CD
+name: Build-Test-Deploy CI/CD
 
 on:
   push:
